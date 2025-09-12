@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\MalakAmr740\\source\\repos\\Task 1 C#\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C0CA7412-FFB1-4A50-8950-94819C93C911}|..\\Task2\\Task2.csproj|c:\\users\\malakamr740\\source\\repos\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C606972C-C322-4E43-8509-43E5E9A2CBA4}|Task 1 C#.csproj|c:\\users\\malakamr740\\source\\repos\\task 1 c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C606972C-C322-4E43-8509-43E5E9A2CBA4}|Task 1 C#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,6 +26,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MalakAmr740\\source\\repos\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Task2\\Program.cs",
+              "ToolTip": "C:\\Users\\MalakAmr740\\source\\repos\\Task2\\Program.cs",
+              "RelativeToolTip": "..\\Task2\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T13:25:18.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MalakAmr740\\source\\repos\\Task 1 C#\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
