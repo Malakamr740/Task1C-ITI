@@ -1,0 +1,14 @@
+C:\Users\MalakAmr740\source\repos\Task3CSharp\bin\Debug\net8.0\Task3CSharp.exe
+C:\Users\MalakAmr740\source\repos\Task3CSharp\bin\Debug\net8.0\Task3CSharp.deps.json
+C:\Users\MalakAmr740\source\repos\Task3CSharp\bin\Debug\net8.0\Task3CSharp.runtimeconfig.json
+C:\Users\MalakAmr740\source\repos\Task3CSharp\bin\Debug\net8.0\Task3CSharp.dll
+C:\Users\MalakAmr740\source\repos\Task3CSharp\bin\Debug\net8.0\Task3CSharp.pdb
+C:\Users\MalakAmr740\source\repos\Task3CSharp\obj\Debug\net8.0\Task3CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MalakAmr740\source\repos\Task3CSharp\obj\Debug\net8.0\Task3CSharp.AssemblyInfoInputs.cache
+C:\Users\MalakAmr740\source\repos\Task3CSharp\obj\Debug\net8.0\Task3CSharp.AssemblyInfo.cs
+C:\Users\MalakAmr740\source\repos\Task3CSharp\obj\Debug\net8.0\Task3CSharp.csproj.CoreCompileInputs.cache
+C:\Users\MalakAmr740\source\repos\Task3CSharp\obj\Debug\net8.0\Task3CSharp.dll
+C:\Users\MalakAmr740\source\repos\Task3CSharp\obj\Debug\net8.0\refint\Task3CSharp.dll
+C:\Users\MalakAmr740\source\repos\Task3CSharp\obj\Debug\net8.0\Task3CSharp.pdb
+C:\Users\MalakAmr740\source\repos\Task3CSharp\obj\Debug\net8.0\Task3CSharp.genruntimeconfig.cache
+C:\Users\MalakAmr740\source\repos\Task3CSharp\obj\Debug\net8.0\ref\Task3CSharp.dll
