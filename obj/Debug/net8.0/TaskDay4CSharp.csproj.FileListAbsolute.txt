@@ -1,0 +1,14 @@
+C:\Users\MalakAmr740\source\repos\TaskDay4CSharp\obj\Debug\net8.0\TaskDay4CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MalakAmr740\source\repos\TaskDay4CSharp\obj\Debug\net8.0\TaskDay4CSharp.AssemblyInfoInputs.cache
+C:\Users\MalakAmr740\source\repos\TaskDay4CSharp\obj\Debug\net8.0\TaskDay4CSharp.AssemblyInfo.cs
+C:\Users\MalakAmr740\source\repos\TaskDay4CSharp\obj\Debug\net8.0\TaskDay4CSharp.csproj.CoreCompileInputs.cache
+C:\Users\MalakAmr740\source\repos\TaskDay4CSharp\bin\Debug\net8.0\TaskDay4CSharp.exe
+C:\Users\MalakAmr740\source\repos\TaskDay4CSharp\bin\Debug\net8.0\TaskDay4CSharp.deps.json
+C:\Users\MalakAmr740\source\repos\TaskDay4CSharp\bin\Debug\net8.0\TaskDay4CSharp.runtimeconfig.json
+C:\Users\MalakAmr740\source\repos\TaskDay4CSharp\bin\Debug\net8.0\TaskDay4CSharp.dll
+C:\Users\MalakAmr740\source\repos\TaskDay4CSharp\bin\Debug\net8.0\TaskDay4CSharp.pdb
+C:\Users\MalakAmr740\source\repos\TaskDay4CSharp\obj\Debug\net8.0\TaskDay4CSharp.dll
+C:\Users\MalakAmr740\source\repos\TaskDay4CSharp\obj\Debug\net8.0\refint\TaskDay4CSharp.dll
+C:\Users\MalakAmr740\source\repos\TaskDay4CSharp\obj\Debug\net8.0\TaskDay4CSharp.pdb
+C:\Users\MalakAmr740\source\repos\TaskDay4CSharp\obj\Debug\net8.0\TaskDay4CSharp.genruntimeconfig.cache
+C:\Users\MalakAmr740\source\repos\TaskDay4CSharp\obj\Debug\net8.0\ref\TaskDay4CSharp.dll

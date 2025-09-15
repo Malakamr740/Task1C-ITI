@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MalakAmr740\\source\\repos\\TaskDay4CSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D580D7B7-48DC-4D90-9F95-E4DCF2F42CB6}|TaskDay4CSharp.csproj|c:\\users\\malakamr740\\source\\repos\\taskday4csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D580D7B7-48DC-4D90-9F95-E4DCF2F42CB6}|TaskDay4CSharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D580D7B7-48DC-4D90-9F95-E4DCF2F42CB6}|TaskDay4CSharp.csproj|c:\\users\\malakamr740\\source\\repos\\taskday4csharp\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D580D7B7-48DC-4D90-9F95-E4DCF2F42CB6}|TaskDay4CSharp.csproj|solutionrelative:course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D580D7B7-48DC-4D90-9F95-E4DCF2F42CB6}|TaskDay4CSharp.csproj|c:\\users\\malakamr740\\source\\repos\\taskday4csharp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D580D7B7-48DC-4D90-9F95-E4DCF2F42CB6}|TaskDay4CSharp.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D580D7B7-48DC-4D90-9F95-E4DCF2F42CB6}|TaskDay4CSharp.csproj|c:\\users\\malakamr740\\source\\repos\\taskday4csharp\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D580D7B7-48DC-4D90-9F95-E4DCF2F42CB6}|TaskDay4CSharp.csproj|solutionrelative:grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D580D7B7-48DC-4D90-9F95-E4DCF2F42CB6}|TaskDay4CSharp.csproj|c:\\users\\malakamr740\\source\\repos\\taskday4csharp\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D580D7B7-48DC-4D90-9F95-E4DCF2F42CB6}|TaskDay4CSharp.csproj|solutionrelative:instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D580D7B7-48DC-4D90-9F95-E4DCF2F42CB6}|TaskDay4CSharp.csproj|c:\\users\\malakamr740\\source\\repos\\taskday4csharp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D580D7B7-48DC-4D90-9F95-E4DCF2F42CB6}|TaskDay4CSharp.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D580D7B7-48DC-4D90-9F95-E4DCF2F42CB6}|TaskDay4CSharp.csproj|c:\\users\\malakamr740\\source\\repos\\taskday4csharp\\idgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D580D7B7-48DC-4D90-9F95-E4DCF2F42CB6}|TaskDay4CSharp.csproj|solutionrelative:idgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D580D7B7-48DC-4D90-9F95-E4DCF2F42CB6}|TaskDay4CSharp.csproj|c:\\users\\malakamr740\\source\\repos\\taskday4csharp\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D580D7B7-48DC-4D90-9F95-E4DCF2F42CB6}|TaskDay4CSharp.csproj|solutionrelative:shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D580D7B7-48DC-4D90-9F95-E4DCF2F42CB6}|TaskDay4CSharp.csproj|c:\\users\\malakamr740\\source\\repos\\taskday4csharp\\shapes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D580D7B7-48DC-4D90-9F95-E4DCF2F42CB6}|TaskDay4CSharp.csproj|solutionrelative:shapes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D580D7B7-48DC-4D90-9F95-E4DCF2F42CB6}|TaskDay4CSharp.csproj|c:\\users\\malakamr740\\source\\repos\\taskday4csharp\\shapes\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D580D7B7-48DC-4D90-9F95-E4DCF2F42CB6}|TaskDay4CSharp.csproj|solutionrelative:shapes\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D580D7B7-48DC-4D90-9F95-E4DCF2F42CB6}|TaskDay4CSharp.csproj|c:\\users\\malakamr740\\source\\repos\\taskday4csharp\\shapes\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D580D7B7-48DC-4D90-9F95-E4DCF2F42CB6}|TaskDay4CSharp.csproj|solutionrelative:shapes\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D580D7B7-48DC-4D90-9F95-E4DCF2F42CB6}|TaskDay4CSharp.csproj|c:\\users\\malakamr740\\source\\repos\\taskday4csharp\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D580D7B7-48DC-4D90-9F95-E4DCF2F42CB6}|TaskDay4CSharp.csproj|solutionrelative:company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D580D7B7-48DC-4D90-9F95-E4DCF2F42CB6}|TaskDay4CSharp.csproj|c:\\users\\malakamr740\\source\\repos\\taskday4csharp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D580D7B7-48DC-4D90-9F95-E4DCF2F42CB6}|TaskDay4CSharp.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D580D7B7-48DC-4D90-9F95-E4DCF2F42CB6}|TaskDay4CSharp.csproj|c:\\users\\malakamr740\\source\\repos\\taskday4csharp\\taskday4csharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D580D7B7-48DC-4D90-9F95-E4DCF2F42CB6}|TaskDay4CSharp.csproj|solutionrelative:taskday4csharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D580D7B7-48DC-4D90-9F95-E4DCF2F42CB6}|TaskDay4CSharp.csproj|c:\\users\\malakamr740\\source\\repos\\taskday4csharp\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D580D7B7-48DC-4D90-9F95-E4DCF2F42CB6}|TaskDay4CSharp.csproj|solutionrelative:engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D580D7B7-48DC-4D90-9F95-E4DCF2F42CB6}|TaskDay4CSharp.csproj|c:\\users\\malakamr740\\source\\repos\\taskday4csharp\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D580D7B7-48DC-4D90-9F95-E4DCF2F42CB6}|TaskDay4CSharp.csproj|solutionrelative:department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D580D7B7-48DC-4D90-9F95-E4DCF2F42CB6}|TaskDay4CSharp.csproj|c:\\users\\malakamr740\\source\\repos\\taskday4csharp\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D580D7B7-48DC-4D90-9F95-E4DCF2F42CB6}|TaskDay4CSharp.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 320,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\MalakAmr740\\source\\repos\\TaskDay4CSharp\\Grade.cs",
+              "RelativeDocumentMoniker": "Grade.cs",
+              "ToolTip": "C:\\Users\\MalakAmr740\\source\\repos\\TaskDay4CSharp\\Grade.cs",
+              "RelativeToolTip": "Grade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T11:48:12.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\MalakAmr740\\source\\repos\\TaskDay4CSharp\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\MalakAmr740\\source\\repos\\TaskDay4CSharp\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T10:27:28.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MalakAmr740\\source\\repos\\TaskDay4CSharp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\MalakAmr740\\source\\repos\\TaskDay4CSharp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T09:40:51.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\MalakAmr740\\source\\repos\\TaskDay4CSharp\\Instructor.cs",
+              "RelativeDocumentMoniker": "Instructor.cs",
+              "ToolTip": "C:\\Users\\MalakAmr740\\source\\repos\\TaskDay4CSharp\\Instructor.cs",
+              "RelativeToolTip": "Instructor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T10:29:14.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\MalakAmr740\\source\\repos\\TaskDay4CSharp\\Course.cs",
+              "RelativeDocumentMoniker": "Course.cs",
+              "ToolTip": "C:\\Users\\MalakAmr740\\source\\repos\\TaskDay4CSharp\\Course.cs",
+              "RelativeToolTip": "Course.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wBUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T09:55:06.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\MalakAmr740\\source\\repos\\TaskDay4CSharp\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "C:\\Users\\MalakAmr740\\source\\repos\\TaskDay4CSharp\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T10:27:28.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IdGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\MalakAmr740\\source\\repos\\TaskDay4CSharp\\IdGenerator.cs",
+              "RelativeDocumentMoniker": "IdGenerator.cs",
+              "ToolTip": "C:\\Users\\MalakAmr740\\source\\repos\\TaskDay4CSharp\\IdGenerator.cs",
+              "RelativeToolTip": "IdGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T11:48:12.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\MalakAmr740\\source\\repos\\TaskDay4CSharp\\Shapes\\Circle.cs",
+              "RelativeDocumentMoniker": "Shapes\\Circle.cs",
+              "ToolTip": "C:\\Users\\MalakAmr740\\source\\repos\\TaskDay4CSharp\\Shapes\\Circle.cs",
+              "RelativeToolTip": "Shapes\\Circle.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T10:41:09.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\MalakAmr740\\source\\repos\\TaskDay4CSharp\\Shapes\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Shapes\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\MalakAmr740\\source\\repos\\TaskDay4CSharp\\Shapes\\Rectangle.cs",
+              "RelativeToolTip": "Shapes\\Rectangle.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T10:41:09.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDrawable.cs",
+              "DocumentMoniker": "C:\\Users\\MalakAmr740\\source\\repos\\TaskDay4CSharp\\Shapes\\IDrawable.cs",
+              "RelativeDocumentMoniker": "Shapes\\IDrawable.cs",
+              "ToolTip": "C:\\Users\\MalakAmr740\\source\\repos\\TaskDay4CSharp\\Shapes\\IDrawable.cs",
+              "RelativeToolTip": "Shapes\\IDrawable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T10:41:51.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\MalakAmr740\\source\\repos\\TaskDay4CSharp\\Shapes\\Shape.cs",
+              "RelativeDocumentMoniker": "Shapes\\Shape.cs",
+              "ToolTip": "C:\\Users\\MalakAmr740\\source\\repos\\TaskDay4CSharp\\Shapes\\Shape.cs",
+              "RelativeToolTip": "Shapes\\Shape.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T10:41:09.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\MalakAmr740\\source\\repos\\TaskDay4CSharp\\Company.cs",
+              "RelativeDocumentMoniker": "Company.cs",
+              "ToolTip": "C:\\Users\\MalakAmr740\\source\\repos\\TaskDay4CSharp\\Company.cs",
+              "RelativeToolTip": "Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T09:41:44.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TaskDay4CSharp",
+              "DocumentMoniker": "C:\\Users\\MalakAmr740\\source\\repos\\TaskDay4CSharp\\TaskDay4CSharp.csproj",
+              "RelativeDocumentMoniker": "TaskDay4CSharp.csproj",
+              "ToolTip": "C:\\Users\\MalakAmr740\\source\\repos\\TaskDay4CSharp\\TaskDay4CSharp.csproj",
+              "RelativeToolTip": "TaskDay4CSharp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-15T10:26:54.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\MalakAmr740\\source\\repos\\TaskDay4CSharp\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\MalakAmr740\\source\\repos\\TaskDay4CSharp\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wBUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T09:41:45.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\MalakAmr740\\source\\repos\\TaskDay4CSharp\\Department.cs",
+              "RelativeDocumentMoniker": "Department.cs",
+              "ToolTip": "C:\\Users\\MalakAmr740\\source\\repos\\TaskDay4CSharp\\Department.cs",
+              "RelativeToolTip": "Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T09:41:44.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\MalakAmr740\\source\\repos\\TaskDay4CSharp\\Engine.cs",
+              "RelativeDocumentMoniker": "Engine.cs",
+              "ToolTip": "C:\\Users\\MalakAmr740\\source\\repos\\TaskDay4CSharp\\Engine.cs",
+              "RelativeToolTip": "Engine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T09:56:51.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\MalakAmr740\\source\\repos\\TaskDay4CSharp\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "C:\\Users\\MalakAmr740\\source\\repos\\TaskDay4CSharp\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T09:41:45.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 80,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
